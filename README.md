@@ -1,4 +1,3 @@
-# CoCoGeo-Cohesion-and-Contrast-with-Geometry-Aware-Self-Supervision-for-3D-Point-Clouds
 # CoCoGeo: Cohesion and Contrast with Geometry-Aware Self-Supervision for 3D Point Clouds
 
 This repository implements **CoCoGeo**, a self-supervised learning (SSL) framework that learns robust, geometry-aware representations from **unlabeled 3D point clouds**, and transfers them to a downstream **YOLO3D** detector for object detection.  
